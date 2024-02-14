@@ -6,7 +6,6 @@ Features
 News Aggregation: Fetches news articles from multiple sources and categories.
 Search Functionality: Allows users to search for articles based on keywords.
 Filtering: Provides filtering options by category, source, country ...
-Bookmarking: Allows users to bookmark articles for later reading.
 Responsive Design: Optimized for desktop and mobile devices.
 Technologies Used
 Backend: Django framework with Django REST Framework for API development.
